@@ -6,7 +6,7 @@
   "main":"censortext",
   "repository":{
     "type":"git",
-    "url":"https://git.oschina.net/lxhjh/censorify.git"
+    "url":"https://github.com/lxhjh201511/censorify.git"
   },
   "keywords":[
     "censor",
