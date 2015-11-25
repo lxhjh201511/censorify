@@ -1,6 +1,6 @@
 {
-  "name": "censorify",
-  "author":"liangxiaohui",
+  "name": "censorify-lxhjh2015",
+  "author":"lxhjh2015",
   "version": "0.0.1",
   "description":"Censors words out of text",
   "main":"censortext",
