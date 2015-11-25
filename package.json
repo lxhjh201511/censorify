@@ -1,0 +1,19 @@
+{
+  "name": "censorify",
+  "author":"liangxiaohui",
+  "version": "0.0.1",
+  "description":"Censors words out of text",
+  "main":"censortext",
+  "repository":{
+    "type":"git",
+    "url":"https://git.oschina.net/lxhjh/censorify.git"
+  },
+  "keywords":[
+    "censor",
+    "words"
+  ],
+  "dependencies":{},
+  "engines":{
+    "node":"*"
+  }
+}
