@@ -1,7 +1,7 @@
 {
   "name": "censorify-lxhjh2015",
   "author":"lxhjh2015",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description":"Censors words out of text",
   "main":"censortext",
   "repository":{
